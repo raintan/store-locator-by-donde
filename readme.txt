@@ -6,7 +6,7 @@ Tags: store locator, store locater, analytics, location marketing, mobile, mobil
 Requires at least: 3.0.1
 Tested up to: 3.8.1
 Stable tag: 1.0
-License: GLPv2 or later
+License: GPLv2
 
 This plugin lets you create a mobile optimized store locator for your site. It also includes access to a robust analytics dashboard, all for free!
 

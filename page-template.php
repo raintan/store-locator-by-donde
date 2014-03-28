@@ -5,8 +5,8 @@ Plugin URI: http://www.donde.io
 Author: donde.io
 Version: 1.0
 Description: Allows Donde users to easily integrate a store locator page into their Wordpress site
+License: GPLv2
 */
-
 
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
