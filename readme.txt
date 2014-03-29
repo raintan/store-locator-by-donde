@@ -36,7 +36,7 @@ Help influence your customers buying intent with in-map engagement that includes
  
 * Create appointment bookings for your service
 * Directions with tap for each location
-* Click to call via. local phone numbers
+* Click to call via local phone numbers
 * Custom details specific to each location
 
 = Advanced Plans =
