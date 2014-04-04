@@ -5,10 +5,10 @@
  * be added with any theme.
  *
  * @package Page Template
- * @version 1.0.0
+ * @version 1.0.1
  * @since 	0.1.0
  */
-class Page_Template_Plugin {
+class Donde_Page_Template_Plugin {
 
     /**
      * Plugin version, used for cache-busting of style and script file references.
@@ -36,7 +36,7 @@ class Page_Template_Plugin {
 	 *
 	 * @since 0.1.0
 	 *
-	 * @var   Page_Template_Plugin
+	 * @var   Donde_Page_Template_Plugin
 	 */
 	private static $instance;
 
@@ -57,7 +57,7 @@ class Page_Template_Plugin {
 	public static function get_instance() {
 
 		if( null == self::$instance ) {
-			self::$instance = new Page_Template_Plugin();
+			self::$instance = new Donde_Page_Template_Plugin();
 		} // end if
 
 		return self::$instance;

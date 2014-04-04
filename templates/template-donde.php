@@ -126,17 +126,6 @@ if (empty($donde_key)) {
     <script>
         (function(e){var t=document.createElement("script");t.type="text/javascript";t.src="https://dtopnrgu570sp.cloudfront.net/donde-loader.js";if(t.addEventListener){t.addEventListener("load",function(t){e(null,t)},false)}else{t.onreadystatechange=function(){if(t.readyState in{loaded:1,complete:1}){t.onreadystatechange=null;e()}}}document.body.appendChild(t)})(function(){window.DondeIO.load("<?php echo $donde_key; ?>")});
     </script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js" type="text/javascript" ></script>
-    <script type="text/javascript">
-        $(".open-panel").click(function(){
-            $("html").toggleClass("openNav");
-        });
-        $(".close-panel, #content").click(function(){
-            $("html").removeClass("openNav");
-        });
-        $('.mmenu').css('height', window.innerHeight+'px');
-        $('#page').bind("touchmove",function(event){ event.preventDefault(); });
-    </script>
     
 </body>
 </html>

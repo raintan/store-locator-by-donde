@@ -5,7 +5,7 @@ Donate link: http://donde.io/
 Tags: store locator, store locater, analytics, location marketing, mobile, mobile map, mobile design, responsive plugin, responsive, store locator plugin, business locator, business locater, address map, business locations, coordinates, dealer locater, dealer locator, geo, geocoding, latitude, location finder, locator maps, address location map, map creator, map maker, map multiple locations, map of addresses, map tools, mapper, mapping, mapping software, mapping tools, maps, shop finder, shop locator, shops, store finder, store locater, store locator, store locator map, stores, widget, wordpress locator
 Requires at least: 3.0.1
 Tested up to: 3.8.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2
 
 This plugin lets you create a mobile optimized store locator for your site. It also includes access to a robust analytics dashboard, all for free!
