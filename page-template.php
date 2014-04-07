@@ -3,7 +3,7 @@
 Plugin Name: Donde Page Template - Store Locator
 Plugin URI: http://www.donde.io
 Author: donde.io
-Version: 1.0.1
+Version: 1.0.2
 Description: Allows Donde users to easily integrate a store locator page into their Wordpress site
 License: GPLv2
 */

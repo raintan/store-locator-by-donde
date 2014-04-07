@@ -5,7 +5,7 @@
  * be added with any theme.
  *
  * @package Page Template
- * @version 1.0.1
+ * @version 1.0.2
  * @since 	0.1.0
  */
 class Donde_Page_Template_Plugin {
