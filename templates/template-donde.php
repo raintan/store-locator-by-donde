@@ -98,9 +98,13 @@ if (empty($donde_key)) {
             }
         ?>
         <nav class="mmenu">
-            <?php foreach ($menu_items as $menu_item):
+            <?php 
+                if (is_array($menu_items)){
+                foreach ($menu_items as $menu_item):
                 echo "<a href='$menu_item->url'>$menu_item->title</a>";
-            endforeach; ?>
+            endforeach; 
+                }
+            ?>
         </nav>
 
         <div id="content">
@@ -110,9 +114,13 @@ if (empty($donde_key)) {
                 <a href="http://<?php echo $_SERVER["SERVER_NAME"]; ?>" alt="<?php echo $sitename; ?>"> </a>
                 </div>
                 <nav>
-                    <?php foreach ($menu_items as $menu_item):
+                    <?php 
+                    if (is_array($menu_items)){
+                    foreach ($menu_items as $menu_item):
                         echo "<a href='$menu_item->url'>$menu_item->title</a>";
-                    endforeach; ?>
+                    endforeach; 
+                    }
+                    ?>
                 </nav>
             </header>
 
