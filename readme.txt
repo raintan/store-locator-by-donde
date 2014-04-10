@@ -17,7 +17,7 @@ The Dónde store locator helps your customers search for and find your products 
 Included in the Dónde service is access to an analytics dashboard from the Dónde website.  Using the analytics dashboard, your team will be able chart trends at each location, product popularity across regions, associated interests, and more.
 
 = Essentials =
-[Signup](http://donde.io/signup?utm_source=WP&utm_medium=description&utm_campaign=WP) | [Login](http://dashboard.donde.io/users/sign_in) | [Support Questions](mailto:mailto:support@donde.io) | [Advanced Plans](http://donde.io/pricing/wp) | [About](http://donde.io/about)
+[Signup](http://dashboard.donde.io/users/sign_up?utm_source=WP&utm_medium=description&utm_campaign=WPplugin) | [Login](http://dashboard.donde.io/users/sign_in?utm_source=WP&utm_medium=description&utm_campaign=WPplugin) | [Support Questions](mailto:mailto:support@donde.io) | [Advanced Plans](http://donde.io/pricing/wp) | [About](http://donde.io/about)
 
 = Main Features =
 * Fully responsive design
@@ -67,7 +67,7 @@ To install your theme’s navigation menu instead of the default Dónde navigati
 Click the drop-down "Navigation Menu", select the menu you’d like to use, and then click “Update”
 
 = Getting Your Dónde Key =
-If you haven't already, head over to [donde.io/signup](http://donde.io/signup?utm_source=WP&utm_medium=installation&utm_campaign=WP) to signup for you free Dónde account. 
+If you haven't already, head over to [donde.io/signup](http://dashboard.donde.io/users/sign_up?utm_source=WP&utm_medium=installpage&utm_campaign=WPplugin) to signup for you free Dónde account. 
 
 Click on the install link on the navigation menu, then click Wordpress. You'll see your Dónde key here.  
 
